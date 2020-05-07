@@ -17,6 +17,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * [Books](#-books)
   * [Courses](#-courses)
   * [Articles](#-articles)
+  * [Unit Testing](#-unit-testing)
   * [Xcode Extensions](#-xcode-extensions)
   * [Repositories](#-repositories)
   * [Videos](#-videos)
@@ -81,14 +82,15 @@ _🌟 most interesting_
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/catalyst-by-tutorials)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[SwiftUI by Example - Book](https://gumroad.com/l/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
-* **[SwiftUI Views - Visual Quickstart Reference](https://www.bigmountainstudio.com/swiftui-views-book)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
+* **[SwiftUI Animations Quick Start (free) - Visual Quick Start Textbook](https://www.bigmountainstudio.com/swiftui-animations-free)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
+* **[SwiftUI Views Quick Start (free) - Visual Quick Start Reference](https://www.bigmountainstudio.com/free-swiftui-book)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Using Combine](https://heckj.github.io/swiftui-notes/)** ([PDF/ePub at Gumroad](https://gum.co/usingcombine) by [Joseph Heck](https://rhonabwy.com/)
-* **🇨🇳[SwiftUI实战，带你入门苹果最新的UI开发框架 | SwiftUI in Action, bring you the latest UI development framework from Apple](https://juejin.im/book/5db6b0fa6fb9a020446c5278)** by [zixiao233](https://juejin.im/user/5daa73b551882508866e973b)
+* **🇨🇳[SwiftUI实战，带你入门苹果最新的UI开发框架 - SwiftUI in Action, bring you the latest UI development framework from Apple](https://juejin.im/book/5db6b0fa6fb9a020446c5278)** by [zixiao233](https://juejin.im/user/5daa73b551882508866e973b)
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://designcode.io/swiftui-course)**. by [Meng To](https://twitter.com/mengto)
 * **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
-* **🇨🇳[SwiftUI 中文教程 | SwiftUI-Tutorials](https://github.com/WillieWangWei/SwiftUI-Tutorials)**. by [WillieWangWei](https://github.com/WillieWangWei)
+* **🇨🇳[SwiftUI 中文教程 - SwiftUI-Tutorials](https://github.com/WillieWangWei/SwiftUI-Tutorials)**. by [WillieWangWei](https://github.com/WillieWangWei)
 
 #### 📰 Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
@@ -146,11 +148,19 @@ _🌟 most interesting_
 * **[Modal View in SwiftUI](https://medium.com/@diniska/modal-view-in-swiftui-3f9faf910249#d2d0-46626bb2224d)** by [Denis Chashchin](https://medium.com/@diniska/)
 * **[SwiftUI Layout System: An In-Depth Look](https://kean.github.io/post/swiftui-layout-system)** by [Alexander Grebenyuk](https://twitter.com/a_grebenyuk)
 * **[SwiftUI Data Flow](https://troz.net/post/2019/swiftui-data-flow/)** by [Sarah Reichelt](https://twitter.com/trozware)
+* **[Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+* **[Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+* **[8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143)** by [@rudrankriyam](https://twitter.com/rudrankriyam)
+
+#### 🤖 Unit Testing
+* **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
+* **[Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 
 #### 📦 Repositories
+* **[100 Days of SwiftUI & Combine](https://github.com/CypherPoet/100-days-of-swiftui-and-combine)** Repo to follow along with _Hacking with Swift_'s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) Challenge.
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -197,7 +207,7 @@ _🌟 most interesting_
 * **[Weather](https://github.com/niazoff/Weather)**. 🌤 A simple SwiftUI weather app using MVVM.
 * **[Chat](https://github.com/niazoff/Chat)**. 💬 A basic SwiftUI chat app that leverages the new `URLSessionWebSocketTask`.
 * **[toBlockingArray for Combine](https://gist.github.com/jrsonline/dd9799929e1aceb5d99e83fc6ac2b43b)**. Acts like RxBlocking, for writing tests using the Combine framework.
-* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
+* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo)
 * **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
@@ -214,9 +224,10 @@ _🌟 most interesting_
 * **[DrawerView-SwiftUI](https://github.com/totoroyyb/DrawerView-SwiftUI)** A drawer view with certain customizability implemented by SwiftUI.
 * **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
 * **[SwiftUI-Router](https://github.com/frzi/SwiftUIRouter)**. A routing system proof-of-concept based on React Router.
-* **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider. 
+* **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider.
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 * **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
+* **[Arrival](https://github.com/ronan18/Arrival-IOS)** BART app writen entirely with SwiftUI
 * **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
 * **[Pull to Refresh](https://github.com/AppPear/SwiftUI-PullToRefresh)** SwiftUI pull to refresh for List, NavigationView
 * **[ConnectFour](https://github.com/vsmithers1087/ConnectFour)** A basic Connect Four game built with SwiftUI
@@ -231,6 +242,19 @@ _🌟 most interesting_
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
 * **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
+* **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
+* **[Verge](https://github.com/muukii/Verge)** A Store-Pattern based data-flow architecture for iOS Application with UIKit / SwiftUI. Inspired by Redux and Vuex.
+* **[Clean Architecture for SwiftUI](https://github.com/nalexn/clean-architecture-swiftui)** A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
+* **[SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect)** Introspect underlying UIKit components from SwiftUI.
+* **🗯️ [Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)** Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
+* **🔥 [Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI)** SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
+* **[Awesome-SwiftUI](https://github.com/chinsyo/awesome-swiftui)** A curated list of awesome SwiftUI tutorials, libraries, videos and articles. 
+* **[GrowingTextView-SwiftUI](https://github.com/Zaprogramiacz/GrowingTextView)** Growing text view implemetation in SwiftUI
+* **[🚀 ActionOver](https://github.com/AndreaMiotto/ActionOver)** A SwiftUI modifier to show an Action Sheet on iPhone and a Popover on iPad and Mac. Write just once the actions for the menus.
+* **🃏[CardStack](https://github.com/dadalar/SwiftUI-CardStackView)** A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.
+* **[Floating Tab Bar](https://github.com/claudiaeng/FloatingTabBar)** A floating tab bar made in SwiftUI
+* **[iOS Calculator Clone for iPadOS using SwiftUI](https://github.com/bofeiw/ios-calculator-clone-for-ipados)** A clone of the native iOS built-in Calculator for iPadOS using SwiftUI, mimicking the native Calculator UI and funtions.
+* **[StepperView](https://github.com/badrinathvm/StepperView)** SwiftUI iOS component for Step Indications
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
